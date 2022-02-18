@@ -1,0 +1,14 @@
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\Week5LoopsAndArrays\bin\Debug\net6.0\Week5LoopsAndArrays.exe
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\Week5LoopsAndArrays\bin\Debug\net6.0\Week5LoopsAndArrays.deps.json
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\Week5LoopsAndArrays\bin\Debug\net6.0\Week5LoopsAndArrays.runtimeconfig.json
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\Week5LoopsAndArrays\bin\Debug\net6.0\Week5LoopsAndArrays.dll
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\Week5LoopsAndArrays\bin\Debug\net6.0\ref\Week5LoopsAndArrays.dll
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\Week5LoopsAndArrays\bin\Debug\net6.0\Week5LoopsAndArrays.pdb
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\Week5LoopsAndArrays\obj\Debug\net6.0\Week5LoopsAndArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\Week5LoopsAndArrays\obj\Debug\net6.0\Week5LoopsAndArrays.AssemblyInfoInputs.cache
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\Week5LoopsAndArrays\obj\Debug\net6.0\Week5LoopsAndArrays.AssemblyInfo.cs
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\Week5LoopsAndArrays\obj\Debug\net6.0\Week5LoopsAndArrays.csproj.CoreCompileInputs.cache
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\Week5LoopsAndArrays\obj\Debug\net6.0\Week5LoopsAndArrays.dll
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\Week5LoopsAndArrays\obj\Debug\net6.0\ref\Week5LoopsAndArrays.dll
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\Week5LoopsAndArrays\obj\Debug\net6.0\Week5LoopsAndArrays.pdb
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\Week5LoopsAndArrays\obj\Debug\net6.0\Week5LoopsAndArrays.genruntimeconfig.cache
